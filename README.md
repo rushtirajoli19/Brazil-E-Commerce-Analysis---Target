@@ -1,7 +1,7 @@
 # Brazil-E-Commerce-Analysis-Target
 
-## Objective: Analyze the given dataset to extract valuable insights and provide actionable recommendations.
-## Tools Used: BigQuery
+- Objective: Analyze the given dataset to extract valuable insights and provide actionable recommendations.
+- Tools Used: BigQuery
 
 ### Exploratory Data Analysis:
 
@@ -30,8 +30,8 @@
 - Found top 5 states with highest and lowest average delivery times.
 - Determined top 5 states with fastest delivery compared to estimated dates.
 
-###Payment Analysis:
+### Payment Analysis:
 - Analyzed month-on-month order placements using different payment types.
 - Examined orders based on payment installments.
 
-##Results: Provided actionable insights and recommendations based on comprehensive data analysis, contributing to strategic decision-making for Target's e-commerce operations.
+## Results: Provided actionable insights and recommendations based on comprehensive data analysis, contributing to strategic decision-making for Target's e-commerce operations.
